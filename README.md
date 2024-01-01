@@ -1,7 +1,8 @@
 # MyFirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
--- > In this i just learn how to install angular cli [npm install -g @angular/cli] and how we can create angular app easily with "ng new my-app"
+
+-- In this i just learn how to install angular cli [npm install -g @angular/cli] and how we can create angular app easily with "ng new my-app"
 
 ## Development server
 
